@@ -1,0 +1,25 @@
+
+.imgPokemon{
+
+    width: 250px;
+    height: 250px;
+}
+
+.pakemon:hover{
+
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transform: scale(1.2);
+    background: white;
+    border-radius: 10px;
+}
+
+.type{
+
+    background: dodgerblue;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    max-width: 25%;
+    text-align: center;
+    margin: 1px;
+}

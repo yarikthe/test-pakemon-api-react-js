@@ -1,0 +1,29 @@
+
+.nav{
+
+    margin-top: 10px;
+}
+
+.link{
+
+    background: orange;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    height: 45px;
+    width: 100px;
+    margin: 10px;
+}
+
+.link:hover{
+
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.navbarActive{
+
+    background: orange;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
